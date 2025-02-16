@@ -1,0 +1,9 @@
+# Keyboard Builds
+## Cosmos V5
+[cosmos-v5](cosmos-build/V5) Custom handwired cosmos.\
+<img src="cosmos-build/V5/images/PXL_20250215_011420923.RAW-01.COVER.jpg" alt="Cosmosv5" style="width:50%; height:auto;">\
+
+# Resources
+[QMK Firmware](https://github.com/qmk/qmk_firmware).\
+[Cosmos Keyboard Builder](https://ryanis.cool/cosmos/beta#cm:CnEKDxIFEJBBIBMSABIAODFAAAoPEgUQkE0gExIAEgA4HUAAChUSBRCQWSATEgASAxCwLzgJQIDwvAIKEhIFEJBlIBMSABIDELA7OApAAAoTEgUQkHEgExIAEgA4HkCAhorABxgAQOiFoK7wVUjc8KKgAQpoChcSExDAgAJAgICYAkjCmaCVkLwBUEM4CAoVEhAQQECAgCBI0JWA3ZD1A1ALUJ4CChQSEBBAQICA+AFI5pn8p5ALUFdQfwoDUIICGAIiCgjIARDIARgAIABAy4v8n9AxSK2R3I3BkwYKlQEKdhIWCIAwEMCAAiAAQIyF2JYQSI2FgLjdDRITCIAwEEAgAECZxJYISI2FgLjdDRIPIABAroXcA0iZiYie0NwQEhAgAEDhg9jQAUjpk6CXkPAREg8gAEDQ4o84SIOPoJeQvRISESAAQO+FvJewAUjhndCNsNgSOAAYAyIKCMgBEMgBGAAgAECejcys8DNIpqncxoC0CBADGIYgOAOCAQIEAg==).
+
