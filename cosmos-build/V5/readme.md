@@ -1,3 +1,6 @@
+#Cosmos V5
+
+<img src="cosmos-build/V5/images/PXL_20250215_011420923.RAW-01.COVER.jpg" alt="Cosmosv5" style="width:50%; height:auto;">\
 
 [QMK Build](https://github.com/inetd404/qmk_firmware/tree/cosmov5)
 
