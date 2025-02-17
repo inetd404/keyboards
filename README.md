@@ -1,7 +1,7 @@
 # Keyboard Builds
-## Cosmos V5
+
 [cosmos-v5](cosmos-build/V5) Custom handwired cosmos.\
-<img src="cosmos-build/V5/images/PXL_20250215_011420923.RAW-01.COVER.jpg" alt="Cosmosv5" style="width:50%; height:auto;">\
+[damo9](damo9) Macropad.\
 
 # Resources
 [QMK Firmware](https://github.com/qmk/qmk_firmware).\
