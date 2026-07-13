@@ -1,5 +1,6 @@
 # Keyboard Builds
 
+- [dz65rgb-v3](dz65rgb_v3) Custom built KDBFans DZ65RGB V3
 - [cosmos-v5](cosmos-build/V5) Custom handwired cosmos.
 - [damo9](damo9) Macropad.
 
